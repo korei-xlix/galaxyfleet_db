@@ -1,0 +1,8 @@
+DataVer=1
+
+DBhost=
+DBname=
+DBuser=
+DBpass=
+
+LogLevel=c
